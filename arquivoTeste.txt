@@ -1,7 +1,4 @@
 Grande dia
 
-<<<<<<< HEAD
 hehehe modificacao
-=======
 Haha mudanca 2
->>>>>>> c6f3f3dd8ecbbbd51c4a53639ca376ca54321350
